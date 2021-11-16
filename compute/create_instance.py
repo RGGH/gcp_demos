@@ -2,6 +2,7 @@ import argparse
 import os
 import time
 
+# pip install google-api-python-client
 import googleapiclient.discovery
 from six.moves import input
 
