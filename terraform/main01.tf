@@ -1,4 +1,5 @@
 # If starting a new project make sure you enable compute api first 
+# gcloud services enable compute.googleapis.com
 
 # Configure the Google Cloud provider
 provider "google" {
